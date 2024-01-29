@@ -1,0 +1,2 @@
+tabs: ['./src/UserInput.jsx', './server/db.json']
+terminals: ['bun install && bun run dev', 'bun install && bun run dev:server']
